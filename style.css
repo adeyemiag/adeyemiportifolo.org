@@ -185,7 +185,7 @@ html{
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-    align-items: center;
+    align-items: left;
     margin: 20px 0px; 
 }
 .input{
@@ -201,15 +201,4 @@ html{
     margin: 15px;
     border: none;
     outline: none;
-}
-#send{
-    padding: 10px;
-    width: 5%;
-    margin: 40px;
-    border: none;
-    outline: none;
-}
-#send:hover{
-    cursor: pointer;
-    box-shadow: 0 0 10px white;
 }
